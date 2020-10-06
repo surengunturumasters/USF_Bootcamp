@@ -9,4 +9,8 @@
 
 **Linear Algebra**
 
-    
+   Noteworthy Projects: 
+   
+   [Dimension Reduction (Image Compression) and Principal Component Analysis (Ranking NBA Players All Time)]( [Global Warming in the United States](https://github.com/surengunturumasters/classes/blob/master/Visualization/labs/homework/finalProject/finalProj.ipynb))
+   
+   
