@@ -4,7 +4,7 @@ USF Masters in Science for Data Science Classes
 CLASSES: 
 Visualization and Exploratory Data Analysis
     Noteworthy Project: 
-        [a link](https://github.com/user/repo/blob/branch/other_file.md)
+        [Global Warming in the United States](https://github.com/surengunturumasters/classes/blob/master/Visualization/labs/homework/finalProject/finalProj.ipynb)
 
 
 Linear Algebra
