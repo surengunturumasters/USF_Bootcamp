@@ -11,6 +11,6 @@
 
    Noteworthy Projects: 
    
-   [Dimension Reduction (Image Compression) and Principal Component Analysis (Ranking NBA Players All Time)] (https://github.com/surengunturumasters/classes/blob/master/Visualization/labs/homework/finalProject/finalProj.ipynb)
+   [Dimension Reduction (Image Compression) and Principal Component Analysis (Ranking NBA Players All Time)](https://github.com/surengunturumasters/classes/blob/master/Visualization/labs/homework/finalProject/finalProj.ipynb)
    
    
