@@ -1,7 +1,5 @@
 # USF Masters in Science for Data Science (MSDS)
 
-CLASSES: 
-
 **Visualization and Exploratory Data Analysis**
     
    Noteworthy Project: 
